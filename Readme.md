@@ -24,6 +24,8 @@ This project features a **responsive 3-column layout** showcasing three differen
 
 ## 🔧 Usage
 
+- Vs code
+
 ### Viewing Locally
 
 1. Download or clone the repository.
