@@ -5,7 +5,8 @@ This project features a **responsive 3-column layout** showcasing three differen
 ---
 ## Preview
 
-![*Preview of Card Layout*](images/screenshot.png)
+![Preview of Card Layout](img/Desktop.png)
+![Preview of Card Layout](img/mobile.png)
 
 ---
 
