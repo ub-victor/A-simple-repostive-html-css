@@ -30,7 +30,7 @@ This project features a **responsive 3-column layout** showcasing three differen
 
 ## 🔧 Usage
 
-- Vs code 
+- Vs code
 
 ### Viewing Locally
 
