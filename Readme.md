@@ -3,6 +3,11 @@
 This project features a **responsive 3-column layout** showcasing three different car categories: **Sedans**, **SUVs**, and **Luxury**. Each card includes an icon, a title, a brief description, and a call-to-action button.
 
 ---
+## Preview
+
+![*Preview of Card Layout*](images/screenshot.png)
+
+---
 
 ## 🚀 Features
 
