@@ -12,7 +12,7 @@ This project features a **responsive 3-column layout** showcasing three differen
 
 ## 🚀 Features
 
-- Modern, clean design      
+- Modern, clean design     
 - Fully responsive layout 
 - Visually distinctive cards
 - Interactive hover effects
